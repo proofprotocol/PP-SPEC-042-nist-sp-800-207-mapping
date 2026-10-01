@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-042: Proof of Efficacy Mapping to NIST SP 800-207 Zero Trust Architecture"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-01"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-042-nist-sp-800-207-mapping"
+abstract: "An independently authored Proof Protocol mapping connecting NIST SP 800-207 context to evidence, efficacy measurements, and proof artifacts."
+keywords:
+  - Proof Protocol
+  - Proof of Efficacy
+  - mapping
+  - evidence
+  - efficacy
+  - proof
