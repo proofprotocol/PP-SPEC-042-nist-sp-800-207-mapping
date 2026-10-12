@@ -103,7 +103,7 @@ No affiliation, endorsement, certification, audit opinion, or sponsorship by the
 
 NIST SP 800-207 — Zero Trust Architecture is external work. Its names, identifiers, trademarks, normative text, and expressive content remain subject to the applicable upstream ownership and licensing terms.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted or access-controlled, contributors MUST NOT copy protected normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used where legally appropriate.
 
